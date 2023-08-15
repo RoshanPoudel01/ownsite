@@ -48,7 +48,7 @@ const Portfolio = () => {
                     {
                         portfolio.map(({ id, src, link }) => (
                             <div key={id} className='shadow-md shadow-gray-600 rounded-lg'>
-                                <img src={src} alt="" className='rounded-md duration-200 hover:scale-105' />
+                                <img src={src} alt="" className='rounded-md duration-200 hover:scale-105 h-60' />
                                 <div className='flex items-center justify-center'>
 
                                     <button onClick={() => { window.open(link, "_blank") }} className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105'>Code</button>
