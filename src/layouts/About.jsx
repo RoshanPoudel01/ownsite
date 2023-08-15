@@ -7,9 +7,9 @@ const About = () => {
                 <div className='pb-8'>
                     <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
                 </div>
-                <p className='text-xl mt-20'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur velit facilis, ab consectetur sequi pariatur odit sapiente, adipisci earum maiores hic? Iste consequuntur ipsa eveniet voluptatem sed dignissimos in laudantium odit rerum eos id delectus earum reiciendis, quia molestias tempora! Eum labore at soluta sapiente saepe incidunt, impedit nulla inventore.</p>
+                <p className='text-xl mt-20'>Good day! I'm a passionate developer who enjoys creating interesting online experiences. With the fundamental triad of HTML, CSS, and JavaScript as my starting point for my web development career, I've been on an interesting adventure to learn about frontend development ever since.</p>
                 <br />
-                <p className='text-xl'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur nisi ratione incidunt omnis iure ut asperiores autem placeat, impedit maiores quibusdam dolorum corporis optio cumque voluptatibus totam? Sunt molestias exercitationem nihil libero, ipsam perferendis voluptates nobis placeat blanditiis nesciunt. Hic tempora consequatur minima iure eaque aperiam suscipit quos soluta asperiores.</p>
+                <p className='text-xl'>Making innovative designs into interactive realities is my passion. I can add style and aesthetics to content with CSS, add interactivity and dynamic features with JavaScript, and organize material with HTML using my toolkit of CSS and JavaScript.Recently i have been diving int the realm of React and find it very amusing and fun to use. I can easily cooperate with others and follow the development of my projects with Git by my side.</p>
             </div>
         </div>
     )
